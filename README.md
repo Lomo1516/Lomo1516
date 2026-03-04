@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ### 🚀 Who Am I
 I’m <u>Kevin</u>, an Information Technology student at the University of Central Florida (UCF) with a strong interest in IT support, networking, and system administration. I’m passionate about solving real-world technical problems and enjoy creating web projects and building new ideas that push me to continuously grow my skills.

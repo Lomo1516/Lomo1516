@@ -1,9 +1,14 @@
 # Hi there 👋
 
-### 🚀 Who Am I
+## 🚀 Who Am I
 I’m <u>Kevin</u>, an Information Technology student at the University of Central Florida (UCF) with a strong interest in IT support, networking, and system administration. I’m passionate about solving real-world technical problems and enjoy creating web projects and building new ideas that push me to continuously grow my skills.
 
+## 🔧 What I'm Currently Working On
 
+- Expanding my knowledge in Active Directory & Windows Server
+- Building hands-on labs using Virtual Machines
+- Strengthening troubleshooting skills for Windows & networking environments
+- Preparing for IT certifications to further validate my skills
 <!--
 **Lomo1516/Lomo1516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
